@@ -15,6 +15,8 @@ As a screensaver I use shotman, since grim didn't work for me.
 
 Due to my keyboard map, I had to change the LEY_PRINT key to KEY_SYSRQ.
 
+Save on $HOME/screenshots/
+
 To more options: man shotman.  https://git.sr.ht/~whynothugo/shotman
 
 NOTA:
@@ -22,6 +24,8 @@ NOTA:
 Como screensaver uso shotman, ya que grim no me funcionó. 
 
 Debido al mapa de mi teclado la techa LEY_PRINT debí cambiarla a KEY_SYSRQ.
+
+Se guardan en $HOME/screenshots/
 
 Para más opciones: man shotman. https://git.sr.ht/~whynothugo/shotman
 
